@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InstantApps-InstallAPIsample.iml" filepath="$PROJECT_DIR$/InstantApps-InstallAPIsample.iml" group="InstantApps-InstallAPIsample" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="InstantApps-InstallAPIsample/app" />
+    </modules>
+  </component>
+</project>

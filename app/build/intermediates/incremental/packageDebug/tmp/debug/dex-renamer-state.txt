@@ -1,0 +1,4 @@
+#Sun Mar 29 01:37:39 EDT 2020
+base.0=C\:\\Users\\12048\\AndroidStudioProjects\\InstantApps-InstallAPIsample\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
